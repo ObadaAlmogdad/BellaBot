@@ -1,0 +1,19 @@
+# Local-only files (not published)
+run.txt
+.trae/
+opencode/
+
+# Dependencies and build output
+node_modules/
+.next/
+venv/
+.venv/
+__pycache__/
+
+# Local environment files
+.env
+.env.local
+
+# OS files
+.DS_Store
+Thumbs.db
